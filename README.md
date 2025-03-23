@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a name="top"></a>
 <div align="center">
 <img src="./assets/AIHawk.png">
@@ -580,3 +581,6 @@ The CC BY License permits others to distribute, remix, adapt, and build upon you
 This tool, Jobs_Applier_AIHawk, is intended for use at your own risk. The creators / maintainers / contributors assume no responsibility for any consequences arising from its use. Users are advised to comply with the terms of service of relevant platforms and adhere to all applicable laws, regulations, and ethical guidelines. The use of automated tools for job applications may carry risks, including potential impacts on user accounts. Proceed with caution and at your own discretion.
 
 [Back to top 🚀](#top)
+=======
+# gittutorialseries
+>>>>>>> 664c8eb8cc5d016da314b698967207a2da64bb4b
